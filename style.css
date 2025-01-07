@@ -1,0 +1,40 @@
+.main{
+    width: 1440px;
+    border: 2px solid red;
+    margin: 0 auto;
+    padding: 0 63px;
+}
+.menu{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.element{
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 39px;
+}
+.text{
+    text-align: center;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 77.45px;
+    margin: 128px 0;
+}
+.content{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 256px;
+}
+.box{
+    width: 558px;
+    height: 452px;
+    background-color: red;
+    border: 2px solid blue;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 77.45px;
+    color: white;
+    text-align: center;
+    align-content: center;
+}
